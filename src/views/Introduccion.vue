@@ -21,7 +21,7 @@
 
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-auto
-                img(src="@/assets/curso/bullets/icon-olas.svg", alt="", data-aos="fade-up")
+                img(src="@/assets/curso/bullets/icon-olas.svg", alt="", data-aos="fade-up").d-none.d-lg-block
               .col-lg
                 p(data-aos="fade-up").mb-0 A lo largo del desarrollo del contenido, los temas se explicarán de manera dinámica mediante actividades interactivas, fomentando el análisis y la comprensión de los conceptos. Al finalizar cada lección, se llevará a cabo una actividad de aprendizaje como preparación para la evaluación final. 
 
