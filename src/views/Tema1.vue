@@ -11,9 +11,9 @@
       .px-4.px-md-5
         .row.justify-content-center.align-items-center.mb-4.mb-lg-5
           .col-lg-7.order-2.order-lg-1
-            p(data-aos="fade-right")  Una empresa especializada en catering debe transformar un evento común en algo memorable, acorde con las expectativas del cliente. #[strong El evento debe reflejar la personalidad del cliente o la identidad corporativa de la empresa]. Es fundamental responder con rapidez, ajustarse al presupuesto, y presentar propuestas creativas que logren que el evento se distinga por su originalidad. Además, es crucial que todo se ejecute sin contratiempos, dejando una impresión duradera, de manera que días después se siga comentando sobre el evento. 
+            p(data-aos="fade-right")  Una empresa especializada en #[em catering] debe transformar un evento común en algo memorable, acorde con las expectativas del cliente. #[strong El evento debe reflejar la personalidad del cliente o la identidad corporativa de la empresa]. Es fundamental responder con rapidez, ajustarse al presupuesto, y presentar propuestas creativas que logren que el evento se distinga por su originalidad. Además, es crucial que todo se ejecute sin contratiempos, dejando una impresión duradera, de manera que días después se siga comentando sobre el evento. 
 
-            p(data-aos="fade-right") El servicio de catering debe ir más allá de proporcionar comida y bebidas; debe incluir elementos como la decoración, ambientación, el menaje, la contratación de personal e incluso la animación. 
+            p(data-aos="fade-right") El servicio de #[em catering] debe ir más allá de proporcionar comida y bebidas; debe incluir elementos como la decoración, ambientación, el menaje, la contratación de personal e incluso la animación. 
 
           .col-lg-5.order-1.order-lg-2
             img.img-fluid(src="@/assets/curso/tema1/1.png", alt="", data-aos="fade-up").mb-4.mb-lg-0
@@ -40,7 +40,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/3.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Para la correcta realización de un catering, se debe presentar una organización administrativa eficaz, cuyo funcionamiento permita enfrentar todo tipo de servicios o banquetes de manera impecable, garantizando que el cliente reciba todo según lo pactado.
+        p.mb-0 Para la correcta realización de un #[em catering], se debe presentar una organización administrativa eficaz, cuyo funcionamiento permita enfrentar todo tipo de servicios o banquetes de manera impecable, garantizando que el cliente reciba todo según lo pactado.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -51,7 +51,7 @@
               img(src="@/assets/curso/tema1/4.svg", alt="", data-aos="fade-up").d-none.d-lg-block
             .col-lg
               .p-3
-                p(data-aos="fade-up").mb-0 La organización administrativa de un servicio de catering se apoya en un sistema de archivos e impresos que requieren especial atención, ya que estos facilitan el control preciso de cada aspecto del evento. 
+                p(data-aos="fade-up").mb-0 La organización administrativa de un servicio de #[em catering] se apoya en un sistema de archivos e impresos que requieren especial atención, ya que estos facilitan el control preciso de cada aspecto del evento. 
 
 
     .row.justify-content-center.align-items-stretch.mb-5
@@ -66,15 +66,15 @@
         .tarjeta--boton.bg-color-4.p-4.text-center.h-100(data-aos="flip-up")
           img(src='@/assets/curso/tema1/6.svg', alt='', style="max-width: 90px").mx-auto.mb-4
           .tarjeta--boton__title.bg-color-10.d-inline-block.px-2.py-1.mb-3
-            h6.text-center.mb-0 #[strong Dirección del viento]
-          p.text-center La planificación de los servicios confirmados debe realizarse al menos con dos días de antelación para que todos los departamentos involucrados puedan preparar sus actividades con tiempo. 
+            h6.text-center.mb-0 #[strong Orden de servicio]
+          p.text-center La planificación de los servicios confirmados debe realizarse al menos con dos días de antelación para que todos los departamentos involucrados puedan preparar sus actividades con tiempo.
 
       .col-lg-4.mb-4
         .tarjeta--boton.bg-color-4.p-4.text-center.h-100(data-aos="flip-up")
           img(src='@/assets/curso/tema1/7.svg', alt='', style="max-width: 90px").mx-auto.mb-4
           .tarjeta--boton__title.bg-color-10.d-inline-block.px-2.py-1.mb-3
-            h6.text-center.mb-0 #[strong Selección de árboles]
-          p.text-center Al finalizar el servicio, se emite una factura que incluye el número de invitados, precio por cubierto y cualquier concepto adicional. El jefe de banquetes revisa la factura antes de presentarla al cliente, quien debe firmarla para aprobarla. 
+            h6.text-center.mb-0 #[strong Facturación]
+          p.text-center Al finalizar el servicio, se emite una factura que incluye el número de invitados, precio por cubierto y cualquier concepto adicional. El jefe de banquetes revisa la factura antes de presentarla al cliente, quien debe firmarla para aprobarla.
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-5
       h4 Carta de evaluación 
@@ -101,7 +101,7 @@
                 li.mb-2 Funcionamiento de servicios técnicos (luces, sonido, aire acondicionado).
                 li.mb-2 Presentación de la comida.
                 li.mb-2 Prontitud del servicio.
-                li.mb-2 Cortesía e higiene del personal,
+                li.mb-2 Cortesía e higiene del personal.
                 li.mb-2 Exactitud en el cumplimiento de los horarios establecidos para el servicio.
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-5
@@ -109,9 +109,9 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p(data-aos="fade-right") Las reservaciones generalmente se realizan a través de llamadas telefónicas o por escrito (WhatsApp, correos). Posteriormente, se registran en el #[strong libro de reservaciones de banquetes], bloqueando tentativamente una fecha y el salón. Para que este bloqueo sea efectivo, se requiere que el cliente haya solicitado verbalmente y por escrito, con anticipación, un anticipo del 50% del costo total del evento. La reservación se considerará confirmada únicamente cuando el cliente haya realizado dicho anticipo. 
+        p(data-aos="fade-right") Las reservaciones generalmente se realizan a través de llamadas telefónicas o por escrito (WhatsApp, correos). Posteriormente, se registran en el #[strong libro de reservaciones de banquetes], bloqueando tentativamente una fecha y el salón. Para que este bloqueo sea efectivo, se requiere que el cliente haya solicitado verbalmente y por escrito, con anticipación, un anticipo del 50 % del costo total del evento. La reservación se considerará confirmada únicamente cuando el cliente haya realizado dicho anticipo. 
 
-        p(data-aos="fade-right") En caso de cancelación con menos de 48 horas de antelación, se retendrá el 50% del anticipo. Por este motivo, es crucial llevar un sistema de archivos que permita acceder rápidamente a la información de cualquier servicio ya realizado y los datos relevantes del mismo. 
+        p(data-aos="fade-right") En caso de cancelación con menos de 48 horas de antelación, se retendrá el 50 % del anticipo. Por este motivo, es crucial llevar un sistema de archivos que permita acceder rápidamente a la información de cualquier servicio ya realizado y los datos relevantes del mismo. 
       
       .col-lg-4
         img.img-fluid(src="@/assets/curso/tema1/9.png", alt="", data-aos="fade-up")
@@ -195,7 +195,7 @@
       .bg-color-11.p-3.py-2.d-inline-block.mb-4
         h5.mb-0.text-color-black #[i Buffet]
 
-      p Se requiere un camarero por cada 25 personas, un bartender hasta para 150 personas (2 bartenders si el evento tiene más de 150 personas), y un supervisor para eventos con más de 50 personas.
+      p Se requiere un camarero por cada 25 personas, un #[em bartender] hasta para 150 personas (2 #[em bartender]s si el evento tiene más de 150 personas), y un supervisor para eventos con más de 50 personas.
 
 
      .col-md.tarjeta.bg-color-4.px-5.py-4.brounded-md.mb-4.mb-lg-0(data-aos="zoom-in-down")
@@ -205,12 +205,12 @@
       .bg-color-11.p-3.py-2.d-inline-block.mb-4
         h5.mb-0.text-color-black Comida emplatada
 
-      p Se requiere un camarero por cada 25 personas, un bartender hasta para 150 personas (2 bartenders si el evento tiene más de 150 personas), y un supervisor para eventos con más de 50 personas.
+      p Se requiere un camarero por cada 25 personas, un #[em bartender] hasta para 150 personas (2 #[em bartender]s si el evento tiene más de 150 personas), y un supervisor para eventos con más de 50 personas.
 
     Separador
 
     .titulo-segundo.color-primario(data-aos='fade-right')#t_1_3
-      h2 1.3 El tipo de #[i catering]
+      h2 1.3 El tipo de #[em catering]
     
     p(data-aos="fade-right").mb-5 Actualmente, los eventos son actos generalizados que se organizan por diversos motivos, principalmente para facilitar el contacto entre personas. Aunque las costumbres y los menús han evolucionado considerablemente, el factor comida ha pasado a ser secundario en muchos casos. El objetivo principal de muchos eventos es reunir a personas con el fin de fomentar contactos culturales y comerciales. 
 
@@ -233,9 +233,9 @@
                     li.mb-2 #[i Brunch] 
                 .col-lg-6
                   ul.custom-list.mb-0
-                    li.mb-2 Vermissage 
+                    li.mb-2 #[em Vermissage]
                     li.mb-2 Vino de honor 
-                    li.mb-2 Coffee break 
+                    li.mb-2 #[em Coffee break]
                     li.mb-2 Servicio infantil
 
     Separador
@@ -278,7 +278,7 @@
           li.mb-2 Jarras para servir leche y café. 
           li.mb-2 Bandejas para servir comida. 
           li.mb-2 Bandejas para servir bebidas. 
-          li.mb-2 Cubos para enfriar vino o champagne. 
+          li.mb-2 Cubos para enfriar vino o #[em champagne]. 
           li.mb-2 #[strong Equipos auxiliares:] proyector, pantalla, pizarra, rotafolio, podio, pedestales y micrófonos, equipos de transmisión simultánea. 
           li.mb-2 #[strong Utensilios de servicio:] hieleras y pinzas. 
           li.mb-2 #[strong Suministros de papelería:] servilletas, removedores, fósforos.  
@@ -308,28 +308,28 @@
       .p-4.p-md-5
         .tarjeta.bg-white.p-4.p-lg-5.pb-lg-4.shadow-soft(data-aos="fade-down")
           LineaTiempoC.color-acento-contenido(text-small).px-4(data-aos="fade-up")
-            .row(titulo="Callejones para pastura").justify-content-center
+            .row(titulo="Sillas").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 Sillas 
                 p.mb-4 Cada invitado debe disponer de un espacio de 60 cm por silla, y de 70 cm en caso de utilizar sillones. 
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/21.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Hilera simple de baja densidad").justify-content-center
+            .row(titulo="Manteles").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 Manteles 
-                p.mb-4 Según el tipo de mesa o buffet, pueden requerirse medidas especiales. Los muletones se adaptan mejor a las mesas, excepto en mesas redondas, donde se ajustan mediante chinchetas. 
+                p.mb-4 Según el tipo de mesa o #[em buffet], pueden requerirse medidas especiales. Los muletones se adaptan mejor a las mesas, excepto en mesas redondas, donde se ajustan mediante chinchetas. 
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/22.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Hilera simple de baja densidad").justify-content-center
+            .row(titulo="Servilletas").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 Servilletas 
-                p.mb-4 Se prevé una servilleta por cada invitado, con un 10% adicional de reserva para eventualidades. 
+                p.mb-4 Se prevé una servilleta por cada invitado, con un 10 % adicional de reserva para eventualidades. 
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/23.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Hilera simple de baja densidad").justify-content-center
+            .row(titulo="Litos y guantes").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 Litos y guantes 
                 p.mb-4 Un lito por camarero y guantes para camareros, especialmente si el banquete es de gran prestigio.  
@@ -350,7 +350,7 @@
             .col-lg-auto
               img(src="@/assets/curso/tema1/25.svg", alt="", data-aos="fade-up", style="max-width: 240px").m-auto.mb-4.mb-lg-0
             .col-lg
-              h5 Podcast
+              h5 Pódcast
 
               TarjetaAudio.color-acento-contenido.mb-3(
                 texto="Reglas de un barman"
@@ -375,7 +375,7 @@
           .row(titulo="Situados en mesa")
             .col-md-6.mb-4.mb-md-0
               p.mb-0 #[strong Situados en mesa]
-              p Se inicia con cócteles de aperitivo como jerez o vermouth, seguido de vino tinto y blanco, cerveza y sangría, concluyendo con cócteles digestivos. 
+              p Se inicia con cócteles de aperitivo como Jerez o #[em Vermouth], seguido de vino tinto y blanco, cerveza y sangría, concluyendo con cócteles digestivos. 
             .col-md-6
               img(src='@/assets/curso/tema1/28.png', alt='', style='max-width: 138px').m-auto
 
@@ -431,35 +431,35 @@
       .p-4.p-md-5
         .tarjeta.bg-white.p-4.p-lg-5.pb-lg-4.shadow-soft(data-aos="fade-down")
           LineaTiempoC.color-acento-contenido(text-small).px-4(data-aos="fade-up")
-            .row(titulo="Callejones para pastura").justify-content-center
+            .row(titulo="Sauvignon Blanc").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Sauvignon Blanc]
                 p.mb-4 Ideal para mariscos crudos o ceviche, por su frescura y acidez cítrica.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/35.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Hilera simple de baja densidad").justify-content-center
+            .row(titulo="Chardonnay").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Chardonnay]
                 p.mb-4 Acompaña bien mariscos finos, con una textura elegante.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/36.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Hilera simple de baja densidad").justify-content-center
+            .row(titulo="Pinot Noir").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Pinot Noir]
                 p.mb-4 Recomendado para pescados y mariscos suaves, sin requerir limón.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/37.png", style="max-width:100%", alt="").mx-auto.mb-4
             
-            .row(titulo="Hilera simple de baja densidad").justify-content-center
+            .row(titulo="Merlot").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Merlot]
                 p.mb-4 Perfecto para pescados grasos como el salmón, así como carnes blancas y pastas con salsas suaves.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/38.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Hilera simple de baja densidad").justify-content-center
+            .row(titulo="Malbec, Syrah y Cabernet Sauvignon").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Malbec, Syrah y Cabernet Sauvignon]
                 p.mb-4 Son vinos potentes, recomendados para alimentos más condimentados.
@@ -479,7 +479,7 @@
           .col-lg-8
             .tarjeta.bg-color-6.p-5(data-aos="fade-left")
               ul.custom-list.mb-0
-                li.mb-2 Para comenzar, coloque la botella sobre la mesa y retire la parte superior de la cápsula que cubre el corcho. Esto puede hacerse con un cortacápsulas, aunque lo ideal es usar la cuchilla que viene integrada en los sacacorchos “de camarero”, que permiten cortar la cápsula por debajo del segundo gollete.
+                li.mb-2 Para comenzar, coloque la botella sobre la mesa y retire la parte superior de la cápsula que cubre el corcho. Esto puede hacerse con un corta cápsulas, aunque lo ideal es usar la cuchilla que viene integrada en los sacacorchos “de camarero”, que permiten cortar la cápsula por debajo del segundo gollete.
 
                 li.mb-2 Antes y después de descorchar, se debe limpiar el gollete de la botella.
 
@@ -608,7 +608,7 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="flip-up").mb-4
           h5 Tabla 1.
-          span Costo de ingredientes y servicios para catering  
+          span Costo de ingredientes y servicios para #[em catering]  
 
         .tabla-a.color-acento-contenido.table-responsive--
           table

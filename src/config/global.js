@@ -119,40 +119,39 @@ export default {
   },
   complementario: [
     {
-      tema: 'Planificación del catering',
+      tema: 'Planificación del <em>catering</em>',
       referencia:
-        'INA VIRTUAL. (2023). Técnicas de montaje en el servicio de alimentos y bebidas - VIDEO 1 – Buffet. [Archivo de video] Youtube.',
+        'INA VIRTUAL. (2023). Técnicas de montaje en el servicio de alimentos y bebidas - VIDEO 1 – <em>Buffet</em>. [Archivo de video] YouTube.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=Gt1CdLxoH0o&ab_channel=GreenGourmetEducaci%C3%B3n',
+      link: 'https://www.youtube.com/watch?v=Gt1CdLxgH0o',
     },
     {
       tema: 'Organización administrativa',
       referencia:
-        'Germán De Bonis - Coach Gastronómico. (2023). Servicios de Catering para Empresas 3 Consejos y 3 Recomendaciones Esenciales. [Archivo de video] Youtube.',
+        'Germán De Bonis - <em>Coach</em> Gastronómico. (2023). Servicios de <em>Catering</em> para Empresas 3 Consejos y 3 Recomendaciones Esenciales. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=kPuqzrWx2ms',
     },
     {
       tema: 'El personal',
       referencia:
-        'Bodega y Cocina. (2015). ¿Cómo ofrecer un servicio de Catering para 4.500 personas en dos días? B&C - PROCOLOMBIA. [Archivo de video] Youtube.',
+        'Bodega y Cocina. (2015). ¿Cómo ofrecer un servicio de <em>Catering</em> para 4.500 personas en dos días? B&C - PROCOLOMBIA. [Archivo de video] YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=hJ2juuJzvI4',
+      link: 'https://www.youtube.com/watch?v=hJ2juujzvj4',
     },
     {
       tema: 'El tipo de catering',
       referencia:
-        'GeDiscovery - Gastronomía, Hotelería y Turismo (2019). Todo lo que necesitas saber sobre el servicio de catering. [Archivo de video] Youtube.',
+        'GeDiscovery - Gastronomía, Hotelería y Turismo (2019). Todo lo que necesitas saber sobre el servicio de <em>catering</em>. [Archivo de video] YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=Ef2hxYKVvVk',
+      link: 'https://www.youtube.com/watch?v=EfZhxYKVyVk',
     },
     {
       tema: 'El servicio de bebidas',
       referencia:
-        'Vineros por excelencia. (2015). Aprende a servir vino a tus invitados. [Archivo de video] Youtube.',
+        'Vineros por excelencia. (2015). Aprende a servir vino a tus invitados. [Archivo de video] YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=t9tqTFjQ-cg',
+      link: 'https://www.youtube.com/watch?v=t9tgTFjQ-cg',
     },
   ],
   glosario: [
@@ -215,13 +214,13 @@ export default {
     },
     {
       referencia:
-        'Fagor Professional. (2015). La receta para una buena planificación y el éxito de un catering.',
+        'Fagor Professional. (2015). La receta para una buena planificación y el éxito de un <em>catering</em>.',
       link:
         'https://www.fagorprofessional.com/blog/es/organizacion-catering-receta-buena-planificacion-exito/',
     },
     {
       referencia:
-        'Robalino Vallejo, J. A., Zurita Gallegos, R. M., Ordóñez Bravo, E. F., & Fierro Ricaurte, A. E. (2018). La planificación estratégica en las empresas de catering: Análisis de las barreras. Revista Observatorio de la Economía Latinoamericana.',
+        'Robalino Vallejo, J. A., Zurita Gallegos, R. M., Ordóñez Bravo, E. F., & Fierro Ricaurte, A. E. (2018). La planificación estratégica en las empresas de <em>catering</em>: Análisis de las barreras. Revista Observatorio de la Economía Latinoamericana.',
       link:
         'https://www.eumed.net/rev/oel/2018/05/planificacion-empresas-catering.html',
     },

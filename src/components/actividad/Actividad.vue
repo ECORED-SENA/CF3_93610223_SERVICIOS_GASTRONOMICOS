@@ -5,9 +5,7 @@
         <img src="@/assets/componentes/icon-actividad.svg" alt="" />
       </div>
       <div class="col ">
-        <h2 class="titulo-tercero mb-0">
-          {{ cuestionario.titulo }}
-        </h2>
+        <h2 class="titulo-tercero mb-0" v-html="cuestionario.titulo"></h2>
         <p class="mb-0" v-html="cuestionario.introduccion"></p>
       </div>
     </div>

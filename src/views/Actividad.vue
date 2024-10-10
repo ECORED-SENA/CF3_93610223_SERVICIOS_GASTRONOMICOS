@@ -24,7 +24,7 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto: '¿Qué incluye la planeación del catering?',
+          texto: '¿Qué incluye la planeación del <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -55,7 +55,7 @@ export default {
         {
           id: 2,
           texto:
-            '¿Cuál de los siguientes es un tipo de servicio en el catering?',
+            '¿Cuál de los siguientes es un tipo de servicio en el <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -70,13 +70,13 @@ export default {
         {
           id: 3,
           texto:
-            '¿Qué abarca el concepto de menaje en la planificación del catering?',
+            '¿Qué abarca el concepto de menaje en la planificación del <em><em>catering</em></em>?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Material necesario y reglas del barman.',
+              texto: 'Material necesario y reglas del <em>barman</em>.',
               esCorrecta: false,
             },
             {
@@ -101,7 +101,7 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué elemento es parte del servicio de bebidas en un evento de catering?',
+            '¿Qué elemento es parte del servicio de bebidas en un evento de <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -111,7 +111,7 @@ export default {
               texto: 'Personal y expectativas del cliente.',
               esCorrecta: false,
             },
-            { id: 'c', texto: 'Reglas del barman.', esCorrecta: true },
+            { id: 'c', texto: 'Reglas del <em>barman</em>.', esCorrecta: true },
             {
               id: 'd',
               texto: 'Distribución de mesas y vajillas.',
@@ -124,7 +124,7 @@ export default {
         {
           id: 5,
           texto:
-            '¿Qué se incluye en los costos del menú para un servicio de catering?',
+            '¿Qué se incluye en los costos del menú para un servicio de <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -135,12 +135,12 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Material necesario y reglas del barman.',
+              texto: 'Material necesario y reglas del <em>barman</em>.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Tipos de servicio y reglas del barman.',
+              texto: 'Tipos de servicio y reglas del <em>barman</em>.',
               esCorrecta: false,
             },
             {
@@ -155,7 +155,7 @@ export default {
         {
           id: 6,
           texto:
-            '¿Cuál es un elemento clave de la coordinación logística en el catering?',
+            '¿Cuál es un elemento clave de la coordinación logística en el <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -170,7 +170,7 @@ export default {
         {
           id: 7,
           texto:
-            '¿Qué incluye la organización administrativa en la planeación del catering?',
+            '¿Qué incluye la organización administrativa en la planeación del <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -185,12 +185,16 @@ export default {
         {
           id: 8,
           texto:
-            '¿Cuál es uno de los tipos de servicio que se puede ofrecer en un evento de catering?',
+            '¿Cuál es uno de los tipos de servicio que se puede ofrecer en un evento de <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Personal.', esCorrecta: false },
-            { id: 'b', texto: 'Reglas del barman.', esCorrecta: false },
+            {
+              id: 'b',
+              texto: 'Reglas del <em>barman</em>.',
+              esCorrecta: false,
+            },
             { id: 'c', texto: 'Materia prima.', esCorrecta: false },
             { id: 'd', texto: '<em>Cocktail</em>.', esCorrecta: true },
           ],
@@ -200,7 +204,7 @@ export default {
         {
           id: 9,
           texto:
-            '¿Qué abarca la elección de vinos en el servicio de bebidas de un evento de catering?',
+            '¿Qué abarca la elección de vinos en el servicio de bebidas de un evento de <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -231,7 +235,7 @@ export default {
         {
           id: 10,
           texto:
-            '¿Qué se incluye en la distribución de mesas dentro de la planificación del catering?',
+            '¿Qué se incluye en la distribución de mesas dentro de la planificación del <em>catering</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
