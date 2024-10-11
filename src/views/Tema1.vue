@@ -334,7 +334,7 @@
                 h4 Litos y guantes 
                 p.mb-4 Un lito por camarero y guantes para camareros, especialmente si el banquete es de gran prestigio.  
               .col-lg-4
-                img.img-fluid(src="@/assets/curso/tema1/24.png", style="max-width:100%", alt="").mx-auto.mb-4
+                img.img-fluid(src="@/assets/curso/tema1/24b.png", style="max-width:100%", alt="").mx-auto.mb-4
 
     Separador
 
