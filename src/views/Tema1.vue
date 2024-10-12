@@ -431,35 +431,35 @@
       .p-4.p-md-5
         .tarjeta.bg-white.p-4.p-lg-5.pb-lg-4.shadow-soft(data-aos="fade-down")
           LineaTiempoC.color-acento-contenido(text-small).px-4(data-aos="fade-up")
-            .row(titulo="Sauvignon Blanc").justify-content-center
+            .row(titulo="<em>Sauvignon Blanc</em>").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Sauvignon Blanc]
                 p.mb-4 Ideal para mariscos crudos o ceviche, por su frescura y acidez cítrica.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/35.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Chardonnay").justify-content-center
+            .row(titulo="<em>Chardonnay</em>").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Chardonnay]
                 p.mb-4 Acompaña bien mariscos finos, con una textura elegante.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/36.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Pinot Noir").justify-content-center
+            .row(titulo="<em>Pinot Noir</em>").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Pinot Noir]
                 p.mb-4 Recomendado para pescados y mariscos suaves, sin requerir limón.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/37.png", style="max-width:100%", alt="").mx-auto.mb-4
             
-            .row(titulo="Merlot").justify-content-center
+            .row(titulo="<em>Merlot</em>").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Merlot]
                 p.mb-4 Perfecto para pescados grasos como el salmón, así como carnes blancas y pastas con salsas suaves.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/38.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="Malbec, Syrah y Cabernet Sauvignon").justify-content-center
+            .row(titulo="<em>Malbec, Syrah y Cabernet Sauvignon</em>").justify-content-center
               .col-lg-7.mb-4.mb-md-0
                 h4 #[em Malbec, Syrah y Cabernet Sauvignon]
                 p.mb-4 Son vinos potentes, recomendados para alimentos más condimentados.
