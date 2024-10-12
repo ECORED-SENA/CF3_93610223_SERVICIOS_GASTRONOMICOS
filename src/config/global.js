@@ -249,6 +249,11 @@ export default {
           cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
     {
