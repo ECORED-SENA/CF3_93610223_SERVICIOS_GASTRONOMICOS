@@ -354,7 +354,7 @@
 
               TarjetaAudio.color-acento-contenido.mb-3(
                 texto="Reglas de un barman"
-                :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                :audio="require('@/assets/componentes/audios/bebidas.mp3')"
                 tiempo
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
