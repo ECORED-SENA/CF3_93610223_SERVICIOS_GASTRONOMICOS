@@ -195,7 +195,7 @@
       .bg-color-11.p-3.py-2.d-inline-block.mb-4
         h5.mb-0.text-color-black #[i Buffet]
 
-      p Se requiere un camarero por cada 25 personas, un #[em bartender] hasta para 150 personas (2 #[em bartender]s si el evento tiene más de 150 personas), y un supervisor para eventos con más de 50 personas.
+      p Se requiere un camarero por cada 25 personas, un #[em bartender] hasta para 150 personas (2 #[em bartenders] si el evento tiene más de 150 personas), y un supervisor para eventos con más de 50 personas.
 
 
      .col-md.tarjeta.bg-color-4.px-5.py-4.brounded-md.mb-4.mb-lg-0(data-aos="zoom-in-down")
@@ -205,7 +205,8 @@
       .bg-color-11.p-3.py-2.d-inline-block.mb-4
         h5.mb-0.text-color-black Comida emplatada
 
-      p Se requiere un camarero por cada 25 personas, un #[em bartender] hasta para 150 personas (2 #[em bartender]s si el evento tiene más de 150 personas), y un supervisor para eventos con más de 50 personas.
+      p Se necesita un camarero y un ayudante por cada 25 personas, un #[i bartender] hasta para 150 personas (2 #[i bartenders] si hay más de 150 personas), y un supervisor para eventos con más de 40 personas.
+
 
     Separador
 
@@ -431,37 +432,37 @@
       .p-4.p-md-5
         .tarjeta.bg-white.p-4.p-lg-5.pb-lg-4.shadow-soft(data-aos="fade-down")
           LineaTiempoC.color-acento-contenido(text-small).px-4(data-aos="fade-up")
-            .row(titulo="<em>Sauvignon Blanc</em>").justify-content-center
+            .row(titulo="Sauvignon Blanc").justify-content-center
               .col-lg-7.mb-4.mb-md-0
-                h4 #[em Sauvignon Blanc]
+                h4 Sauvignon Blanc
                 p.mb-4 Ideal para mariscos crudos o ceviche, por su frescura y acidez cítrica.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/35.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="<em>Chardonnay</em>").justify-content-center
+            .row(titulo="Chardonnay").justify-content-center
               .col-lg-7.mb-4.mb-md-0
-                h4 #[em Chardonnay]
+                h4 Chardonnay
                 p.mb-4 Acompaña bien mariscos finos, con una textura elegante.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/36.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="<em>Pinot Noir</em>").justify-content-center
+            .row(titulo="Pinot Noir").justify-content-center
               .col-lg-7.mb-4.mb-md-0
-                h4 #[em Pinot Noir]
+                h4 Pinot Noir
                 p.mb-4 Recomendado para pescados y mariscos suaves, sin requerir limón.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/37.png", style="max-width:100%", alt="").mx-auto.mb-4
             
-            .row(titulo="<em>Merlot</em>").justify-content-center
+            .row(titulo="Merlot").justify-content-center
               .col-lg-7.mb-4.mb-md-0
-                h4 #[em Merlot]
+                h4 Merlot
                 p.mb-4 Perfecto para pescados grasos como el salmón, así como carnes blancas y pastas con salsas suaves.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/38.png", style="max-width:100%", alt="").mx-auto.mb-4
 
-            .row(titulo="<em>Malbec, Syrah y Cabernet Sauvignon</em>").justify-content-center
+            .row(titulo="Malbec, Syrah y Cabernet Sauvignon").justify-content-center
               .col-lg-7.mb-4.mb-md-0
-                h4 #[em Malbec, Syrah y Cabernet Sauvignon]
+                h4 Malbec, Syrah y Cabernet Sauvignon
                 p.mb-4 Son vinos potentes, recomendados para alimentos más condimentados.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/39.png", style="max-width:100%", alt="").mx-auto.mb-4

@@ -19,7 +19,7 @@ export default {
       titulo:
         'Cuestionario: Planificación integral de servicios de <em>catering</em>',
       introduccion:
-        '<b> Objetivo:</b> Desarrollar habilidades en la organización y gestión de eventos de catering, a través de la identificación y aplicación de los elementos clave en la planificación.',
+        '<b> Objetivo:</b> Desarrollar habilidades en la organización y gestión de eventos de <i>catering</i>, a través de la identificación y aplicación de los elementos clave en la planificación.',
       barajarPreguntas: false,
       preguntas: [
         {
@@ -76,7 +76,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Material necesario y reglas del <em>barman</em>.',
+              texto: 'Material necesario y reglas del barman.',
               esCorrecta: false,
             },
             {
@@ -111,7 +111,7 @@ export default {
               texto: 'Personal y expectativas del cliente.',
               esCorrecta: false,
             },
-            { id: 'c', texto: 'Reglas del <em>barman</em>.', esCorrecta: true },
+            { id: 'c', texto: 'Reglas del barman.', esCorrecta: true },
             {
               id: 'd',
               texto: 'Distribución de mesas y vajillas.',
@@ -135,12 +135,12 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Material necesario y reglas del <em>barman</em>.',
+              texto: 'Material necesario y reglas del barman.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Tipos de servicio y reglas del <em>barman</em>.',
+              texto: 'Tipos de servicio y reglas del barman.',
               esCorrecta: false,
             },
             {
@@ -192,7 +192,7 @@ export default {
             { id: 'a', texto: 'Personal.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Reglas del <em>barman</em>.',
+              texto: 'Reglas del barman.',
               esCorrecta: false,
             },
             { id: 'c', texto: 'Materia prima.', esCorrecta: false },

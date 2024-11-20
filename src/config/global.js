@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Planeación del <em>catering</em>',
     descripcionCurso:
-      'El componente formativo sobre la planeación del catering abarca desde la organización administrativa, contratación de personal, tipos de servicios (<i>cocktail</i>, <i>buffet</i>, banquete), hasta el montaje y menaje. Se destacan los aspectos clave del servicio de bebidas, incluyendo recomendaciones para seleccionar vinos según el menú. También se describe cómo calcular costos de menús y coordinar la logística del evento, garantizando una experiencia personalizada y ajustada a las necesidades del cliente.',
+      'El componente formativo sobre la planeación del <i>catering</i> abarca desde la organización administrativa, contratación de personal, tipos de servicios (<i>cocktail</i>, <i>buffet</i>, banquete), hasta el montaje y menaje. Se destacan los aspectos clave del servicio de bebidas, incluyendo recomendaciones para seleccionar vinos según el menú. También se describe cómo calcular costos de menús y coordinar la logística del evento, garantizando una experiencia personalizada y ajustada a las necesidades del cliente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -128,7 +128,7 @@ export default {
     {
       tema: 'Organización administrativa',
       referencia:
-        'Germán De Bonis - <em>Coach</em> Gastronómico. (2023). Servicios de <em>Catering</em> para Empresas 3 Consejos y 3 Recomendaciones Esenciales. [Archivo de video] YouTube.',
+        'Germán De Bonis - <em>Coach</em> Gastronómico. (2023). <em>Catering</em> para Empresas? Evita Estos Errores y Acierta Siempre [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=kPuqzrWx2ms',
     },
@@ -140,7 +140,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=hJ2juujzvj4',
     },
     {
-      tema: 'El tipo de catering',
+      tema: 'El tipo de <em>catering</em>',
       referencia:
         'GeDiscovery - Gastronomía, Hotelería y Turismo (2019). Todo lo que necesitas saber sobre el servicio de <em>catering</em>. [Archivo de video] YouTube.',
       tipo: 'Video',
